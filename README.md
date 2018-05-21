@@ -1,2 +1,2 @@
-# generic_netlink
-Generiv netlink sample code
+Generic Netlink
+Generic netlink sample code
